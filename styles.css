@@ -1,0 +1,14 @@
+
+
+.special-header {
+    color: red;
+    font-size: 28px;
+    text-decoration: underline;
+}
+
+.styled-box {
+    background-color: yellow;
+    padding: 10px;
+    border: 2px dashed orange;
+    margin: 15px;
+}
